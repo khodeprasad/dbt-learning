@@ -1,4 +1,3 @@
-Welcome to your new dbt project!
 
 ### Using the starter project
 
@@ -8,6 +7,7 @@ Try running the following commands:
 
 
 ### Commands used
+- dbt init
 - dbt debug
 - dbt compile
 - dbt run
