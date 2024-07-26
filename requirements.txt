@@ -1,0 +1,9 @@
+requests
+pandas
+
+dbt-core
+
+dbt-duckdb
+duckdb
+
+dbt-postgres

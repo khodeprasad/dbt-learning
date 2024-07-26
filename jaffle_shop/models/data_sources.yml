@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: postgres_sources
+    database: defaultdb
+    schema: jaffle_shop
+    tables:
+      - name: customers
+      - name: orders
+      - name: payments
+
