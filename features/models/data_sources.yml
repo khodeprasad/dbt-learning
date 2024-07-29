@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: features_sources
+    database: defaultdb
+    schema: features
+    tables:
+      - name: checkouts
+      - name: purchases
+      - name: returns
+      - name: users

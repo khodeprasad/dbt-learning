@@ -1,4 +1,4 @@
-user_id,account_created_ds,email_verified
+user_id,created_date,email_verified
 0,2019-06-17,0
 1,2020-07-26,0
 2,2021-09-01,1

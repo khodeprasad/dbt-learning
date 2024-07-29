@@ -1,4 +1,4 @@
-ds,purchase_id,user_id,product_id,purchase_price
+date,purchase_id,user_id,product_id,purchase_price
 2024-06-14,3167C678-A78C-F63D-27B9-8E7A6BA141BD,1,19,120
 2024-06-19,3478951E-7219-6AB8-6E7F-B029C1A7AA32,68,20,271
 2024-06-02,3D3D430A-A787-88EC-D4B1-7FBA1C595E40,39,27,250
