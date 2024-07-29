@@ -12,6 +12,7 @@ Try running the following commands:
 - dbt compile
 - dbt seed
 - dbt run
+- dbt build
 - dbt docs generate
 - dbt docs serve
 - dbt test
