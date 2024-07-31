@@ -1,0 +1,13 @@
+version: 2
+
+seeds:
+  - name: users
+    description: users data that need to push to db
+    columns:
+      - name: user_id
+        data_tests:
+          - unique
+          - not_null
+      - name: created_date
+      - name: updated_at
+      - name: email_verified
