@@ -19,6 +19,8 @@ Try running the following commands:
 - dbt compile --target prod
 - dbt run --target prod
 
+- dbt snapshot
+
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
